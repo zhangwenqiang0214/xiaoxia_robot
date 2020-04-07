@@ -3,7 +3,13 @@
 
 
 ## 使用：
-'python3 robot.py'
+
+python3 robot.py
+
+
+## 期待和你一起学Python
+
+https://banxia.ink
 
 
 
