@@ -13,7 +13,7 @@ https://banxia.ink
 
 ## 新版已更新
 
-https://github.com/zhangwenqiang0214/xiaoxia_robot-V1.0
+https://github.com/zhangwenqiang0214/xiaoxia_robot_V1.0
 
 
 
