@@ -11,6 +11,10 @@ python3 robot.py
 
 https://banxia.ink
 
+## 新版已更新
+
+https://github.com/zhangwenqiang0214/xiaoxia_robot-V1.0
+
 
 
 
